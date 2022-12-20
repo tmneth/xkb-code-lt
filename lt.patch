@@ -5,7 +5,7 @@
 > xkb_symbols "ltcode" {
 >  
 >    include "latin" 
->    name[Group1]= "English (Lithuanian AltGr dead keys)";
+>    name[Group1]= "Lithuanian (ltcode)";
 > 
 >    key <TLDE> { [grave,          asciitilde,    dead_grave                 ] };
 >    key <AE01> { [1,              exclam,        exclamdown                 ] };
