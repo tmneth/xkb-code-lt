@@ -28,4 +28,4 @@ git clone https://github.com/tmneth/xkb-lt.git
 
 ### Uninstallation
 
-You can always restore the original xkb config by reinstalling `xkb-data` or `xkeyboard-config` depending on distro.
+You can always restore the original xkb config by reinstalling `xkb-data` or `xkeyboard-config` depending on your distro.
